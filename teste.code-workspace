@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "teste",
+			"path": "../../../franc/OneDrive/Documentos/NOVA PASTA GIT/teste"
+		},
+		{
+			"name": "testando git",
+			"path": "../../../franc/testando git"
+		},
+		{
+			"name": "Curso ForntEnd",
+			"path": ".."
+		},
+		{
+			"name": "francisco",
+			"path": "../../../../wamp64/www/francisco"
+		},
+		{
+			"path": "../../../../wamp64/www"
+		},
+		{
+			"path": "../../2026.2/FrontEnd II"
+		}
+	],
+	"settings": {}
+}
